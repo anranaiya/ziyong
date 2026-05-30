@@ -1,0 +1,1 @@
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:46424?security=tls&sni=de.01.naiun.bilibili.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.2MB%2Fs
